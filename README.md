@@ -1,7 +1,8 @@
 # Calculator
----
-Creating a calculator with help of JavaScript, HTML and CSS only.
----
+
+
+# Creating a calculator with help of JavaScript, HTML and CSS only.
+
 1. For creating a web based document HTML is used. 
 2. For styling purpose CSS is used.
 3. For functionality and logic part JavaScript is used. 
@@ -42,6 +43,9 @@ live-server
 >  Screenshot of the calculator application
 
 
+![Capture](https://user-images.githubusercontent.com/30586187/88045628-6fc04700-cb6c-11ea-8df1-d73765a744b9.PNG)
+
+---
 > For stunning images to use in your background
 
 [Pixabay](https://pixabay.com/)
